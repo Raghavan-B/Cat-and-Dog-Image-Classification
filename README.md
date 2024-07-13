@@ -50,7 +50,7 @@ The project includes a Streamlit app for easy interaction with the model. To run
 The model training process involves the following steps:
 
 1. **Data Loading:** Load and preprocess the dataset of cat and dog images.
-2. **Feature Extraction:** Use a deep learning model (e.g., CNN) to extract features from the images.
+2. **Feature Extraction:** Use a deep learning model dense net to extract features from the images.
 3. **SVM Classification:** Train an SVM with L2 regularization and hinge loss on the extracted features.
 4. **Model Evaluation:** Evaluate the model's performance on a test set using accuracy and other relevant metrics.
 
